@@ -1,12 +1,10 @@
 def calculate_density(mass, volume):
     """
     Calculate density given mass and volume.
-    
     Args:
         mass (float): The mass of the object.
         volume (float): The volume of the object.
-    
-    Returns:
+        Returns:
         float: The density of the object.
     """
     if volume == 0:
@@ -17,11 +15,9 @@ def calculate_density(mass, volume):
 def calculate_mass(density, volume):
     """
     Calculate mass given density and volume.
-    
     Args:
         density (float): The density of the object.
         volume (float): The volume of the object.
-    
     Returns:
         float: The mass of the object.
     """
@@ -33,11 +29,9 @@ def calculate_mass(density, volume):
 def calculate_volume(mass, density):
     """
     Calculate volume given mass and density.
-    
     Args:
         mass (float): The mass of the object.
         density (float): The density of the object.
-    
     Returns:
         float: The volume of the object.
     """
