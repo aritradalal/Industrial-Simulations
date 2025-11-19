@@ -8,10 +8,12 @@ These are particularly useful is a lot of feasibility studies as new infrastruct
 
 ## Project Folders
 
-*TBC*
+| Name | Description | File Link |
+|:----:|:-----------:|:---------:|
+| Electrolyser Balancer v0.1 | Electrolyser model to design production and storage capacity given a usage profile | [hydrogenGenStorageBalancer/electrolyserbalancer.py](./hydrogenGenStorageBalancer/electrolyserbalancer.py) |
 
 ## Utilities Files
 
 | Name | Description | File Link |
-|:----:|:------------|:---------:|
-| Density calculator (python) | Functions to calculate between density, mass and volume | [utils/density_mass_volume.py] (./utils/density_mass_volume.py)
+|:----:|:-----------:|:---------:|
+| Density calculator (python) | Functions to calculate between density, mass and volume | [utils/density_mass_volume.py](./utils/density_mass_volume.py) |
